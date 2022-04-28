@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="relacion_5_3.Ejercicio_5_11KtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-24T12:30:40" hostname="pc-gonzalo" time="0.014">
+  <properties/>
+  <testcase name="numeroLetras()" classname="relacion_5_3.Ejercicio_5_11KtTest" time="0.014"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
